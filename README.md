@@ -1,6 +1,6 @@
 # cpp-project-template
 A template for my projects written in C++
-## Comfort interface for building projects, based on CMake build system. Commands automation done via Make build system
+## Comfort interface for building projects, based on CMake build system. Commands automation done via Make
 ```bash
 $ make help
 
